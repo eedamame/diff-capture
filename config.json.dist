@@ -1,0 +1,8 @@
+{
+  "projectName": "exampleProject",
+  "prdDomain": "https://example.com",
+  "devDomain": "http://localhost:8000",
+  "urlList": [
+    ["01_toppage", "/"]
+  ]
+}
