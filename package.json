@@ -1,5 +1,5 @@
 {
-  "name": "capture_diff",
+  "name": "diff-capture",
   "version": "1.0.0",
   "description": "get diff image betweeen production and dev environment",
   "main": "index.js",
